@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Giansimone Perrino, a postdoc in cybergenetics at the Imperial College London.
-- 👀 I’m interested in data-driven modelling and control of dynamical systems.
-- 🌱 I’m currently learning novel data-driven control strategies.
+- 👋 Hi, I’m Giansimone Perrino, a **postdoctoral research scientist** at **Imperial College London**.
+- 👀 I’m interested in AI, reinforcement learning, and control theory.
+- 🌱 I’m currently learning novel data-driven control and reinforcement learning approaches.
 - 📫 `g.perrino`@`imperial.ac.uk`
 
