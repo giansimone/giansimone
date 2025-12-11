@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Giansimone Perrino, a **Research Scientist** and a **Bioengineer**.
-- 👀 I'm passionate about solving open science problems and developing next-generation technologies using the power of synthetic biology, artificial intelligence (AI), and control engineering.
-- 🧬 I’m currently learning new machine learning and deep learning approaches to challenge open science problems in biology.
+- 👋 Hi, I’m Giansimone Perrino, a **Research Scientist** and **Bioengineer**.
+- 👀 I'm passionate about solving open science problems and developing next-generation technologies using the power of **Synthetic Biology**, **AI**, and **Control Engineering**.
+- 🚀 Currently diving deep into modern **learning-based** algorithms to challenge open problems in biology 🧬 and robotics 🤖.
+- 🕹️ Tinkering with **Reinforcement Learning** algorithms to build robust autonomous systems.
 - 📫 Get in touch with me -> `hello`@`giansimone.dev`
-
