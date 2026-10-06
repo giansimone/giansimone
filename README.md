@@ -2,4 +2,4 @@
 - 👀 I'm passionate about solving open science problems and developing next-generation technologies using the power of **Synthetic Biology**, **AI**, and **Control Engineering**.
 - 🚀 Currently diving deep into modern **learning-based** algorithms to challenge open problems in biology 🧬 and robotics 🤖.
 - 🕹️ Tinkering with **Reinforcement Learning** algorithms to build robust autonomous systems.
-- 📫 Get in touch with me -> `hello`@`giansimone.dev`
+- 📫 Get in touch with me -> `hello`@`giansimone.com`
